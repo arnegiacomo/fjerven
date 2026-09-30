@@ -21,7 +21,7 @@ Et gør-det-selv smart foderbræt med kamera og mikrofon inspireret af Bird Budd
 ## Illustrationer og visuel identitet
 
 Til præsentation og artskort anvendes illustrationer fra:
-- [fugleramme](https://github.com/arnegiacomo/fugleramme) af Giacomo Arneodo.
+- [fugleramme](https://github.com/arnegiacomo/fugleramme) af Arne Giacomo Munthe-Kaas.
 
 ---
 
